@@ -1,0 +1,5 @@
+convention,convention_label,hotel,variable,hotel_row_count,median,q1,q3,iqr,p90,minimum,maximum,zero_count
+ALL_PUBLISHED_ROWS,A,Resort Hotel,TotalNights,18567,3.0,2.0,6.0,4.0,7.0,0.0,69.0,224
+ALL_PUBLISHED_ROWS,A,City Hotel,TotalNights,38140,3.0,2.0,4.0,2.0,5.0,0.0,57.0,193
+EXACT_ROW_DEDUPLICATED,B,Resort Hotel,TotalNights,15632,3.0,2.0,7.0,5.0,8.0,0.0,69.0,213
+EXACT_ROW_DEDUPLICATED,B,City Hotel,TotalNights,26759,3.0,2.0,4.0,2.0,5.0,0.0,57.0,159

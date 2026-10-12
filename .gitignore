@@ -1,0 +1,40 @@
+# Local virtual environments
+.venv/
+.mplconfig/
+venv/
+.env/
+.python-version
+
+# Python bytecode and packaging artefacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Test and tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+
+# Local environment files (secrets, machine-specific settings)
+.env
+.env.*
+!.env.example
+
+# Intermediate extracts are still ignored. Phase 3 tables and figures
+# under outputs/ are generated artefacts kept for the README; recreate
+# them with: python -m hospitality_analytics.commercial_profile
+data/processed/
+data/interim/
+
+# data/raw/H1.csv and data/raw/H2.csv are the published source extract.
+# They are intentionally NOT ignored so a later Git repository can include
+# the original files unchanged. Do not add data/raw/ here.

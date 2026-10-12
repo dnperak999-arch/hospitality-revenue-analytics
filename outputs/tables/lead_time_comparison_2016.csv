@@ -1,0 +1,5 @@
+convention,convention_label,hotel,variable,hotel_row_count,median,q1,q3,iqr,p90,minimum,maximum,zero_count
+ALL_PUBLISHED_ROWS,A,Resort Hotel,LeadTime,18567,54.0,9.0,157.0,148.0,230.0,0.0,709.0,1559
+ALL_PUBLISHED_ROWS,A,City Hotel,LeadTime,38140,71.0,22.0,162.0,140.0,277.0,0.0,626.0,1499
+EXACT_ROW_DEDUPLICATED,B,Resort Hotel,LeadTime,15632,42.0,7.0,137.0,130.0,218.0,0.0,709.0,1502
+EXACT_ROW_DEDUPLICATED,B,City Hotel,LeadTime,26759,49.0,13.0,111.0,98.0,182.0,0.0,626.0,1402

@@ -1,0 +1,19 @@
+window,variable,subset,hotel,row_count,checkout_count,canceled_count,noshow_count,nonarrival_count,nonarrival_rate_pct
+full extract,RequiredCarParkingSpaces,> 0,combined,7416,7416,0,0,0,0.0
+full extract,RequiredCarParkingSpaces,> 0,Resort Hotel,5490,5490,0,0,0,0.0
+full extract,RequiredCarParkingSpaces,> 0,City Hotel,1926,1926,0,0,0,0.0
+2016,RequiredCarParkingSpaces,> 0,combined,3862,3862,0,0,0,0.0
+2016,RequiredCarParkingSpaces,> 0,Resort Hotel,2666,2666,0,0,0,0.0
+2016,RequiredCarParkingSpaces,> 0,City Hotel,1196,1196,0,0,0,0.0
+2016,RequiredCarParkingSpaces,= 0,combined,52845,32508,19669,668,20337,38.48424638092535
+2016,RequiredCarParkingSpaces,= 0,Resort Hotel,15901,10971,4817,113,4930,31.004339349726433
+2016,RequiredCarParkingSpaces,= 0,City Hotel,36944,21537,14852,555,15407,41.70365959289736
+2016,AssignedRoomType,differs from ReservedRoomType,combined,7630,7223,289,118,407,5.334207077326344
+2016,AssignedRoomType,differs from ReservedRoomType,Resort Hotel,3851,3694,127,30,157,4.076863152427941
+2016,AssignedRoomType,differs from ReservedRoomType,City Hotel,3779,3529,162,88,250,6.615506747816883
+2016,BookingChanges,> 0,combined,8677,7302,1275,100,1375,15.846490722599977
+2016,BookingChanges,> 0,Resort Hotel,3732,3218,495,19,514,13.77277599142551
+2016,BookingChanges,> 0,City Hotel,4945,4084,780,81,861,17.411526794742162
+2016,TotalOfSpecialRequests,> 0,combined,23080,18908,3913,259,4172,18.07625649913345
+2016,TotalOfSpecialRequests,> 0,Resort Hotel,7411,5984,1376,51,1427,19.255161246795303
+2016,TotalOfSpecialRequests,> 0,City Hotel,15669,12924,2537,208,2745,17.518667432510053
